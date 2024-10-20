@@ -9,7 +9,7 @@
 
 ## Problem Statement
 
-This dashboard helps the stakeholders understand their sales better. It helps them to know if their sales in different places match with their preplanded scenarioes or not. Through different visuals and data representation, they get to know their improvement area, & thus they can improve their products by identifying these areas.
+This dashboard helps the stakeholders understand their sales better. It helps them to know if their sales in different places match with their preplanned scenarios or not. Through different visuals and data representation, they get to know their improvement area, & thus they can improve their products by identifying these areas.
 
 
 
