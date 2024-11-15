@@ -3,9 +3,6 @@
 
 
 
-# Reliance Smart Sales Report
-
-
 
 ## Problem Statement
 
